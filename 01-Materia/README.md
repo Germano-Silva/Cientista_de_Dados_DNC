@@ -34,10 +34,12 @@
 
 ### Perguntas e Hipoteses de negócio.
  - Top 10 produtos em faturamento.
- ![Top10](/01-Materia/Top10.png).
+ 
+![Top10](/01-Materia/Top10.png).
 
  - Top produto de faturamento em 2019.
-  ![Top10](/01-Materia/Top1.png).
+
+![Top10](/01-Materia/Top1.png).
 
 
 
